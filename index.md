@@ -8,3 +8,7 @@
 Add sample markdown headers
 
 ![emmanseete profile photo](https://avatars.githubusercontent.com/u/192623279?v=4)
+
+``` javascript
+var username = "emmanseete";
+```
